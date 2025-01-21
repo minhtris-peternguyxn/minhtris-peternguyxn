@@ -4,7 +4,7 @@
 - 🏐 **Interests**: Passionate about football, badminton, and staying updated with the latest in tech.  
 - 💻 **Currently Learning**: Exploring the world of **ASP.NET Core** and honing my backend development skills. I'll learning new coding language about mobile development in the future.
 - 🤝 **Looking to Collaborate On**: Exciting projects related to web development, backend systems, or anything that pushes the boundaries of technology!  
-- 📬 **How to Reach Me**: Feel free to connect via [https://facebook.com/peterngaw] [minhtrifptu@gmail.com]
+- 📬 **How to Reach Me**: Feel free to connect via (https://www.facebook.com/62.S1rT/) [minhtrifptu@gmail.com]
 
 ## Fun Facts  
 - 😄 **Pronouns**: [Ming Tree, He/Him, or my English name - Peter]  
